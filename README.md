@@ -224,4 +224,5 @@ plt.legend()
 ![image](https://github.com/user-attachments/assets/ec213035-9a30-41b7-a757-e7fed20333fb)
 
 # Result:
- Include your result here
+Thus, The implementation of data visualization using matplotlib has been successfully verified.
+
